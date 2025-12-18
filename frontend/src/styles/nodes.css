@@ -1,0 +1,22 @@
+
+.node-container {
+  background: #111827;
+  color: #ffffff;
+  border-radius: 10px;
+  padding: 12px;
+  width: 220px;
+  font-family: Inter, sans-serif;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+}
+
+.node-title {
+  font-weight: 600;
+  margin-bottom: 8px;
+  border-bottom: 1px solid #374151;
+  padding-bottom: 4px;
+}
+
+.node-content {
+  font-size: 14px;
+  color: #d1d5db;
+}
